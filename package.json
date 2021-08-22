@@ -1,0 +1,12 @@
+{
+  "name": "explorando-marte",
+  "version": "1.0.0",
+  "description": "desafio",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Boris Henrique",
+  "license": "ISC"
+}
